@@ -3,14 +3,13 @@ I am Chandrani Kumari, a postdoctoral researcher at Wisconsin Institute for Disc
 
 ## Research Interest
 - Machine learning methods to predict clinical health outcomes
-- Deep learning models for medical imaging (MRI, CT-Scan, X-Ray, etc...) and data analysis
 - Multi omics, spatial omics methods, and NGS data analysis using machine learning and deep learning techniques
 
 
 ## Education
-- Ph.D., Computaional Biology | The Institute of Mathematical Sciences (_May 2024_)								       		
-- M.Tech., Computaional Biology	| Anna University (_July 217_)	 			        		
-- B.Tech., IT and Mathematical Innovation | Delhi University (_May 2015_)
+- Ph.D., Computaional Biology | The Institute of Mathematical Sciences, Chennai, India (_May 2024_)								       		
+- M.Tech., Computaional Biology	| Anna University, Chennai, India (_July 217_)	 			        		
+- B.Tech., IT and Mathematical Innovation | University of Delhi, Delhi, India (_May 2015_)
 
 #### Technical Skills: Python, R, MATLAB
 
