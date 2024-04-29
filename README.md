@@ -1,11 +1,18 @@
-# Post-doctoral researcher in Computational Biology at Wisconsin Institute for Discovery, University of Wisconsin
+# Research
+I am Chandrani Kumari, a postdoctoral researcher at Wisconsin Institute for Discovery, University of Wisconsin, USA. I did my Ph.D. in computational biology under the supervision of Dr. Rahul Siddharthan from The Institute of Mathematical Sciences, Chennai an autonomus research institute under the Department of Atomic Energy Department. Before my Ph.D., I did my M. Tech in Computational Biology and B. Tech in IT and Mathematical Innovation (University of Delhi). 
 
-#### Technical Skills: Python, R, MATLAB
+## Research Interest
+- Machine learning methods to predict clinical health outcomes
+- Deep learning models for medical imaging (MRI, CT-Scan, X-Ray, etc...) and data analysis
+- Multi omics, spatial omics methods, and NGS data analysis using machine learning and deep learning techniques
+
 
 ## Education
 - Ph.D., Computaional Biology | The Institute of Mathematical Sciences (_May 2024_)								       		
 - M.Tech., Computaional Biology	| Anna University (_July 217_)	 			        		
 - B.Tech., IT and Mathematical Innovation | Delhi University (_May 2015_)
+
+#### Technical Skills: Python, R, MATLAB
 
 ## Publications
 1. Kumari, Chandrani, and Rahul Siddharthan. "MMM and MMMSynth: Clustering of heterogeneous tabular data, and synthetic data generation." Plos one 19.4 (2024): e0302271.
