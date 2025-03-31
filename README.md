@@ -1,5 +1,5 @@
 # Research
-I am Chandrani Kumari, a postdoctoral researcher at Wisconsin Institute for Discovery, University of Wisconsin, USA. I did my Ph.D. in computational biology under the supervision of Dr. Rahul Siddharthan from The Institute of Mathematical Sciences, Chennai an autonomus research institute under the Department of Atomic Energy. Before my Ph.D., I did my M. Tech in Computational Biology and B. Tech in IT and Mathematical Innovation (University of Delhi). 
+I am a postdoctoral researcher at Wisconsin Institute for Discovery, University of Wisconsin, USA in Roy lab. I did my Ph.D. in computational biology under the supervision of Dr. Rahul Siddharthan from The Institute of Mathematical Sciences, Chennai an autonomus research institute under the Department of Atomic Energy. Before my Ph.D., I did my M. Tech in Computational Biology and B. Tech in IT and Mathematical Innovation (University of Delhi). 
 
 ## Research Interest
 - Machine learning methods to predict clinical health outcomes
